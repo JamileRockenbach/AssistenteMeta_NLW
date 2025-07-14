@@ -1,6 +1,6 @@
 # 🎮 Assistente de Meta – NLW Agents
 
-Projeto desenvolvido durante o evento **NLW Agents** da [Rocketseat](https://www.rocketseat.com.br/), com foco em aplicações web integradas com **IA generativa**.
+Projeto desenvolvido por Jamile Rockenbach Ferreira durante o evento **NLW Agents** da [Rocketseat](https://www.rocketseat.com.br/), com foco em aplicações web integradas com **IA generativa**.
 
 ---
 
