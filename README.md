@@ -47,4 +47,4 @@ A IA foi integrada via **API do Gemini (Google)**, tornando o app uma ferramenta
 
 ---
 
-![Tela Inicial do Assistente Meta](./assets/assets/tela_assistente.jpeg)
+![Tela Inicial do Assistente Meta](assets/assets/tela_assistente.jpeg)
